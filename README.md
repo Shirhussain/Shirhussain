@@ -2,23 +2,21 @@
 
 <!--
 **Shirhussain/Shirhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<div align="center">
+<h2>Welcome to my GitHub profile</h2>
+</div>
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... django projects 
 - 🌱 I’m currently learning ... advance block chain 
-- 👯 I’m looking to collaborate on ... python and django 
+- 👯 I’m looking to collaborate on ... python, django and block chain 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... andything 
 - 📫 How to reach me: ... facebook and eamil 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love to build 
--->
-
-
-<div align="center">
-<h2>Welcome to my GitHub profile</h2>
-</div>
 
 <div align="center">
 
@@ -42,4 +40,5 @@ Feel free to get in touch with me via <a href="mailto:sh.danishyar@gmail.com"><b
 <a href="https://www.facebook.com/Hu3in.Danishyar" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 </div>
+
 
