@@ -9,14 +9,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... django projects 
-- 🌱 I’m currently learning ... advance block chain 
+- 🔭 I’m currently working on ... django projects with python
+- 🌱 I’m currently learning ... advance block chain and AI
 - 👯 I’m looking to collaborate on ... python, django and block chain 
 - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... andything 
+- 💬 Ask me about ... anything 
 - 📫 How to reach me: ... facebook and eamil 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I love to build 
+- ⚡ Fun fact: ... I love to build and challenge
 
 <div align="center">
 
