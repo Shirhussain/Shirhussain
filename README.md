@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 My name is Shirhussain. I'm a software developer and YouTuber. <br />
-I had started programming in 2013 with C++ as a self-taught programmer and later entered to Kabul University, at faculty of Computer science, i was there for two year then got a scholarship from Allameh Tabatabai University in Tehran. The year 2016 I had work with pure PHP then in 2017 I was noticed the growth of artificial intelligence and Python, so I started working with Python, at begging tried Data science and then focus more on Django web framework. I have been working with Linux operating system since 2016, my default operating system is Linux it means that i'm linux admin as well. I know how to leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
-
 </div>
 
 <div align="center">
