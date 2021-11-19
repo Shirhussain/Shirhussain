@@ -9,9 +9,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... django projects with python
-- 🌱 I’m currently learning ... advance block chain and AI
-- 👯 I’m looking to collaborate on ... python, django and block chain 
+- 🔭 I’m currently working on ... django projects with python and Angular
+- 🌱 I’m currently learning ... advance Blockchain
+- 👯 I’m looking to collaborate on ... python, django, Blockchain and Angular
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... anything 
 - 📫 How to reach me: ... facebook and eamil 
