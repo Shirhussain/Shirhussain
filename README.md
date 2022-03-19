@@ -9,12 +9,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... django projects with python and Angular
-- 🌱 I’m currently learning ... advance Blockchain
+- 🔭 I’m currently working on ... as a backend developer at https://zenpro.io/
+- 🌱 I’m currently learning ... Blockchain
 - 👯 I’m looking to collaborate on ... python, django, Blockchain and Angular
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... anything 
-- 📫 How to reach me: ... facebook and eamil 
+- 📫 How to reach me: ... facebook and eamil: sh.danishyar@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love to build and challenge
 
