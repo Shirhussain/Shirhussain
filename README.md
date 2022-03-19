@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... as a backend developer at https://zenpro.io/
+- 🔭 I’m currently working  ... as a backend developer at https://zenpro.io/
 - 🌱 I’m currently learning ... Blockchain
 - 👯 I’m looking to collaborate on ... python, django, Blockchain and Angular
 - 🤔 I’m looking for help with ... 
