@@ -2,6 +2,19 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Shir Danishyar, Full Stack Web Developer :computer:<br>
+      <p><strong>Founder engineer who ships.</strong> Built a unified API for LLMs (<a href="https://kolank.com" target="_blank">kolank.com</a>)</p>
+    
+    <ul>
+        <li class="bullet">Featured in 40+ outlets and awarded a $10K Rockefeller Foundation grant</li>
+        <li class="bullet">Built <a href="https://kolank.ai/" target="_blank">AI agents</a> that automate end‑to‑end freight ops across email/chat/TMS</li>
+    </ul>
+    
+    <p>Prior: fintech, IoT, e‑commerce with real performance and revenue gains.</p>
+    
+    <p>Full‑stack: TS/React/Next/Node, Python/Django, GraphQL/REST, Postgres/Mongo, AWS/Azure, Docker.</p>
+    
+    <p>Default fast; user obsessed; metrics driven.</p>
+    
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
