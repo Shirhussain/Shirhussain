@@ -2,16 +2,15 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
  <h2 align="left">
-   Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
    I'm Shir Danishyar, Full Stack Web Developer :computer:
  </h2>  
   <p>
-   Founder engineer who ships. Built a unified API for LLMs (https://kolank.com)
-— featured in 40+ outlets and awarded a $10K Rockefeller Foundation grant
-— I built (https://kolank.ai/) AI agents that automate end‑to‑end freight ops across email/chat/TMS. 
-Prior: fintech, IoT, e‑commerce with real performance and revenue gains. 
-Full‑stack: TS/React/Next/Node, Python/Django, GraphQL/REST, Postgres/Mongo, AWS/Azure, Docker.
-Default fast; user obsessed; metrics driven.
+   Founder engineer who ships. Built a unified API for LLMs (https://kolank.com) </br>
+— featured in 40+ outlets and awarded a $10K Rockefeller Foundation grant </br>
+— I built (https://kolank.ai/) AI agents that automate end‑to‑end freight ops across email/chat/TMS. </br>
+Prior: fintech, IoT, e‑commerce with real performance and revenue gains. </br>
+Full‑stack: TS/React/Next/Node, Python/Django, GraphQL/REST, Postgres/Mongo, AWS/Azure, Docker.</br>
+Default fast; user obsessed; metrics driven.</br>
   </p>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
