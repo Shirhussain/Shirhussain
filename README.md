@@ -1,12 +1,15 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Shir Danishyar, Full Stack Web Developer :computer:<br>
-      <p><strong>Founder engineer who ships.</strong> Built a unified API for LLMs (<a href="https://kolank.com" target="_blank">kolank.com</a>)</p>
+ <h2 align="left">
+   Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+   I'm Shir Danishyar, Full Stack Web Developer :computer:
+ </h2>    
+    <p><strong>Founder engineer who ships.</strong> Built a unified API for LLMs (<a href="https://kolank.com" target="_blank">kolank.com</a>)</p>
     
     <ul>
-        <li class="bullet">Featured in 40+ outlets and awarded a $10K Rockefeller Foundation grant</li>
-        <li class="bullet">Built <a href="https://kolank.ai/" target="_blank">AI agents</a> that automate end‑to‑end freight ops across email/chat/TMS</li>
+        <li>Featured in 40+ outlets and awarded a $10K Rockefeller Foundation grant</li>
+        <li>Built <a href="https://kolank.ai/" target="_blank">AI agents</a> that automate end‑to‑end freight ops across email/chat/TMS</li>
     </ul>
     
     <p>Prior: fintech, IoT, e‑commerce with real performance and revenue gains.</p>
@@ -14,6 +17,22 @@
     <p>Full‑stack: TS/React/Next/Node, Python/Django, GraphQL/REST, Postgres/Mongo, AWS/Azure, Docker.</p>
     
     <p>Default fast; user obsessed; metrics driven.</p>
+    
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    
+    <h3 align="left">Languages and Tools I use:</h3>
+    <p align="left">
+      <!-- All your tech icons here (unchanged) -->
+    </p>
+    
+    <h2 align="left">:heart: Let's get connected:</h2>
+    <p>
+      [![Linkedin Badge](https://img.shields.io/badge/-ShirDanishyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shir-danishyar/)](https://www.linkedin.com/in/shir-danishyar/)
+    </p>
+    
+    <div align="center">
+      Feel free to get in touch with me via <a href="mailto:sh.danishyar@gmail.com"><b>Email </b></a>
+    </div>
     
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
