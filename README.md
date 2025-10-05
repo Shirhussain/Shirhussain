@@ -6,11 +6,11 @@
  </h2>  
   <p>
    Founder engineer who ships. Built a unified API for LLMs (https://kolank.com) </br>
-— featured in 40+ outlets and awarded a $10K Rockefeller Foundation grant </br>
-— I built (https://kolank.ai/) AI agents that automate end‑to‑end freight ops across email/chat/TMS. </br>
-Prior: fintech, IoT, e‑commerce with real performance and revenue gains. </br>
-Full‑stack: TS/React/Next/Node, Python/Django, GraphQL/REST, Postgres/Mongo, AWS/Azure, Docker.</br>
-Default fast; user obsessed; metrics driven.</br>
+   — featured in 40+ outlets and awarded a $10K Rockefeller Foundation grant </br>
+   — I built (https://kolank.ai/) AI agents that automate end‑to‑end freight ops across email/chat/TMS. </br>
+   Prior: fintech, IoT, e‑commerce with real performance and revenue gains. </br>
+   Full‑stack: TS/React/Next/Node, Python/Django, GraphQL/REST, Postgres/Mongo, AWS/Azure, Docker.</br>
+   Default fast; user obsessed; metrics driven.</br>
   </p>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
